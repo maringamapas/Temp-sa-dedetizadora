@@ -169,7 +169,7 @@ const Page = () => {
                   ))}
                 </div>
                 <p className="text-sm sm:text-base text-zinc-300 leading-relaxed">
-                  &quot;Meu encanamento entupiu e não sabia o que fazer. Desentupiu na hora com equipamento profissional. Ficou como novo!&quot;
+                  &quot;Meu encanamento entupiu e não sabia o que fazer. Desentupiram na hora com equipamento profissional. Ficou como novo!&quot;
                 </p>
               </div>
             </div>
