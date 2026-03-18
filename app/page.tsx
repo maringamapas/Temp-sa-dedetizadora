@@ -139,7 +139,7 @@ const Page = () => {
                   ))}
                 </div>
                 <p className="text-sm sm:text-base text-zinc-300 leading-relaxed">
-                  &quot;Tive problema com barata em casa e a Lady Bug resolveu completamente. Atendimento rápido, profissional e com garantia. Super recomendo!&quot;
+                  &quot;Tive problema com barata em casa e foi resolvido completamente. Atendimento rápido, profissional e com garantia. Super recomendo!&quot;
                 </p>
               </div>
             </div>
@@ -169,7 +169,7 @@ const Page = () => {
                   ))}
                 </div>
                 <p className="text-sm sm:text-base text-zinc-300 leading-relaxed">
-                  &quot;Meu encanamento entupiu e não sabia o que fazer. A Lady Bug desentupiu na hora com equipamento profissional. Ficou como novo!&quot;
+                  &quot;Meu encanamento entupiu e não sabia o que fazer. Desentupiu na hora com equipamento profissional. Ficou como novo!&quot;
                 </p>
               </div>
             </div>
