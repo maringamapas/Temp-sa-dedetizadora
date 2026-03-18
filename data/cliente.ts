@@ -78,6 +78,6 @@ export const dadosCliente = {
     description:
       "Serviços de dedetização e desentupimento em Maringá. Atendimento 24 horas. Profissionais certificados e preços transparentes.",
     url: "https://dedetizadora-lady-bug.vercel.app",
-    ogImage: "/og-image.jpg",
+    ogImage: "https://dedetizadora-lady-bug.vercel.app/og-image.jpg",
   },
 }
