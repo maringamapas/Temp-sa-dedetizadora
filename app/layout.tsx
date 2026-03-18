@@ -12,6 +12,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: dadosCliente.seo.siteTitle,
   description: dadosCliente.seo.description,
+  metadataBase: new URL(dadosCliente.seo.url),
   generator: "v0.app",
   // Nova tag de verificação inserida corretamente via Metadata API
   verification: {
